@@ -9,5 +9,4 @@ body {
 .corousel-item, img{
     height: 100% !important;
     width:  100% !important;
-    border: 1px solid red;
 }
